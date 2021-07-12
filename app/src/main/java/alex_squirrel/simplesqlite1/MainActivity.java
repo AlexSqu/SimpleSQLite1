@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     EditText etName, etEmail;
 
     DBHelper dbHelper;
-
+    //тест1
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
